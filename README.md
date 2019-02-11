@@ -1,7 +1,7 @@
 # CursorKeyboard
 HHKB pro2で矢印だけを使うシーンにおいての利便性の向上を図るため，
 矢印キーだけのキーボードを設計した．
-![kb0](https://github.com/conys/CursorKeyboard/blob/image/images/kb0.JPG)
+![kb1](https://github.com/conys/CursorKeyboard/blob/image/images/kb1.JPG)
 
 ディレクトリ構成
 - /arduino  pro micro用スケッチ
