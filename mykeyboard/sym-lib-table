@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mylib)(type Legacy)(uri E:/konitansa/mydocument/kicad/mykeyboard/mykeyboard/mylib.lib)(options "")(descr ""))
+)
